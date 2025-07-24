@@ -385,11 +385,6 @@
           <GroupName>User</GroupName>
           <Files>
             <File>
-              <FileName>it.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\User\it.c</FilePath>
-            </File>
-            <File>
               <FileName>main.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\User\main.c</FilePath>
