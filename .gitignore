@@ -33,4 +33,5 @@
 
 Firmware/lst/*.*
 Firmware/obj/*.*
+Firmware/CMakeFiles/*.*
 *.bin
