@@ -25,7 +25,6 @@ include_directories (./LibUSB)
 include_directories (./STM32F0x2_USB-FS-Device_Lib_V1.0.0/Libraries/CMSIS/Include)
 
 # The need build source path and build all files
-set (SRC_FILE0 ./User/it.c)
 set (SRC_FILE1 ./User/main.c)
 set (SRC_FILE2 ./User/usb_bsp.c)
 set (SRC_FILE3 ./User/usbd_pwr.c)
